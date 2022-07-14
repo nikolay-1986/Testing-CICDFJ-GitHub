@@ -2,7 +2,7 @@ name: GitHub Actions Demo
 on: [push]
 jobs:
   build:
-    runs-on: windows #ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
@@ -16,7 +16,7 @@ jobs:
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
   deployment:
-    runs-on: windows #ubuntu-latest
+    runs-on: ubuntu-latest
     environment: production
     concurrency: production
     steps:

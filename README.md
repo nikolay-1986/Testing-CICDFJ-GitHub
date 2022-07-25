@@ -7,6 +7,6 @@ US Standard Atmosphere 1976 balculator based on [US Standard Atmosphere 1976, NA
 
 [http://marekcel.pl/atmos](http://marekcel.pl/atmos)
 
-## World Geodetic System 1984 Calculator
+## World Geodetic System 1984 Calculator    
 
 [http://marekcel.pl/wgs84](http://marekcel.pl/wgs84)

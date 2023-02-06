@@ -13,3 +13,4 @@ TST-4 #comment check WH for 3048
 TST-4 #comment check indexing triggers for 3048
 TST-4 #comment check SC #in #label SCGH for 3048
 RT-1 check for indexing GITCL-3289
+RT-1 check №2 for indexing GITCL-3289

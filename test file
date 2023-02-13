@@ -12,3 +12,4 @@ TST-3 test issue 3272
 TST-4 #comment check WH for 3048
 TST-4 #comment check indexing triggers for 3048
 TST-4 #comment check SC #in #label SCGH for 3048
+SMK-1 Update file.
